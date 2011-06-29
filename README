@@ -1,0 +1,19 @@
+En este repositorio se encuentran los archivos necesarios para Traducir completamente el sistema e foros IPB versión 3.2 Beta 1, para un disfrute global, podemos ayudarnos entre nosotros para tenerlo traducido lo antes posible.
+
+Espero un Espanol perfecto sin faltas ortográficas, de todos modos lo revisare.
+
+------------------------------------
+GUIA PARA TRADUCIR
+
+Cada linea contiene un mensaje del foro, asi que cada linea debera ser traducida individualmente y solo la parte entre "comillas" de este modo;
+
+LA LINEA:
+ipb.lang['ua_error_save2']	= "An error occurred while saving this user agent: ";
+
+QUEDARA ASI:
+ipb.lang['ua_error_save2']	= "Ha ocurrido un error al intentar guardar ese agente de usuario: ";
+
+Las unicas normas que hay que seguir es que las mayusculas hay que mantenerlas asi que con mantener las mayusculas ya vale.
+
+
+Un saludo y gracias! ;)
